@@ -21,11 +21,18 @@
         "image": "/Muhammadyahyo.jpeg"
     },
     {
-        "id": 5,
-        "name": "Muslimbek Muminov",
-        "role": "Organizer",
+        "id": 4,
+        "name": "Saidolim",
+        "role": "Freelancer",
         "phone": "+998 91 111 56 47",
-        "image": "/Muslimbek.jpeg"
+        "image": "/Saidolim.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Javohirbek Nurmatov",
+        "role": "Freelancer",
+        "phone": "+998 91 113 13 77",
+        "image": "/Javohirbek.jpeg"
     },
     {
         "id": 6,
@@ -36,16 +43,44 @@
     },
     {
         "id": 7,
+        "name": "Muhammadyahyo",
+        "role": "Full Stack Developer",
+        "phone": "+998 88 373 03 31",
+        "image": "/Muhammadyahyo.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Saidolim",
+        "role": "Freelancer",
+        "phone": "+998 91 111 56 47",
+        "image": "/Saidolim.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Javohirbek Nurmatov",
+        "role": "Freelancer",
+        "phone": "+998 91 113 13 77",
+        "image": "/Javohirbek.jpeg"
+    },
+    {
+        "id": 10,
         "name": "Muslimbek Muminov",
         "role": "Organizer",
         "phone": "+998 91 111 56 47",
         "image": "/Muslimbek.jpeg"
     },
     {
-        "id": 8,
-        "name": "Muslimbek Muminov",
-        "role": "Organizer",
+        "id": 11,
+        "name": "Muhammadyahyo",
+        "role": "Full Stack Developer",
+        "phone": "+998 88 373 03 31",
+        "image": "/Muhammadyahyo.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "Saidolim",
+        "role": "Freelancer",
         "phone": "+998 91 111 56 47",
-        "image": "/Muslimbek.jpeg"
+        "image": "/Saidolim.jpeg"
     }
 ]
