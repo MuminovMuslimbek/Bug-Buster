@@ -1,0 +1,20 @@
+.heroWrapper {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+:global(.swiper-pagination-bullet) {
+  background: #bbb;
+  opacity: 0.7;
+}
+
+:global(.swiper-pagination-bullet-active) {
+  background: #0070f3;
+  opacity: 1;
+}
