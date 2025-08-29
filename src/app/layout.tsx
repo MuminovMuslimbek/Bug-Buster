@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 // 🔥 SEO uchun metadata
 export const metadata: Metadata = {
@@ -61,7 +63,7 @@ export const metadata: Metadata = {
     apple: "/apple-touch-icon.png",
   },
   manifest: "/site.webmanifest",
-  themeColor: "#0f172a", 
+  themeColor: "#0f172a",
 
   category: "technology",
   applicationName: "Bug Buster",
@@ -83,7 +85,9 @@ export default function RootLayout({
       <body
         className={'antialiased bg-gray-50 text-gray-900'}
       >
+        <Header />
         {children}
+        <Footer />
       </body>
     </html>
   );

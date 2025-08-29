@@ -35,12 +35,9 @@ const Hero: React.FC = () => {
               <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-transparent to-black/70" />
 
               {/* Shadow ichkaridan */}
-              <div
-                className="absolute inset-0 pointer-events-none"
-                style={{
-                  boxShadow: "inset 0 0 300px 120px #00172A",
-                }}
-              />
+              <div className="absolute inset-0 pointer-events-none 
+                shadow-[inset_0_0_300px_120px_#00172A] 
+                md:shadow-[inset_0_0_300px_210px_#00172A]" />
             </div>
           </SwiperSlide>
         ))}
