@@ -1,5 +1,20 @@
 [
-  { "src": "/hero1.png", "alt": "Hero 1" },
-  { "src": "/hero2.png", "alt": "Hero 2" },
-  { "src": "/hero3.png", "alt": "Hero 3" }
+  {
+    "src": "/hero1.png",
+    "alt": "Hero 1",
+    "title": "Bug Buster Event",
+    "description": "Bug Buster – dasturchilar uchun mo‘ljallangan event, unda qatnashchilar xato kodlarni belgilangan vaqt ichida jamoaviy yechishadi."
+  },
+  {
+    "src": "/hero2.png",
+    "alt": "Hero 2",
+    "title": "Kodlarni Hal Qilish",
+    "description": "Ishtirokchilar murakkab kod xatolarini aniqlash va hal qilish orqali o‘z jamoaviy ko‘nikmalarini sinovdan o‘tkazadilar."
+  },
+  {
+    "src": "/hero3.png",
+    "alt": "Hero 3",
+    "title": "Jamoaviy Yechimlar",
+    "description": "Bug Buster sizga tez va samarali jamoaviy ishlashni, muammolarni tezkor hal qilishni o‘rgatadi."
+  }
 ]

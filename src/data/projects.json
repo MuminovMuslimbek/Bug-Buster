@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "title": "AI Workshop",
+        "image": "/hero1.png",
+        "location": "Toshkent",
+        "year": "2025",
+        "time": "14:00",
+        "description": "Sun'iy intellekt bo‘yicha workshop.",
+        "technologies": [
+            "Python",
+            "TensorFlow"
+        ],
+        "role": "Trainer",
+        "status": "upcoming",
+        "link": "https://example.com/ai"
+    },
+    {
+        "id": 2,
+        "title": "Hackathon 2024",
+        "image": "/hero1.png",
+        "location": "Samarqand",
+        "year": "2024",
+        "time": "09:00",
+        "description": "O‘zbekiston bo‘ylab hackathon.",
+        "technologies": [
+            "Node.js",
+            "React"
+        ],
+        "role": "Participant",
+        "status": "past",
+        "link": "https://example.com/hackathon"
+    },
+    {
+        "id": 3,
+        "title": "Hackathon 2024",
+        "image": "/hero1.png",
+        "location": "Samarqand",
+        "year": "2024",
+        "time": "09:00",
+        "description": "O‘zbekiston bo‘ylab hackathon.",
+        "technologies": [
+            "Node.js",
+            "React"
+        ],
+        "role": "Participant",
+        "status": "upcoming",
+        "link": "https://example.com/hackathon"
+    },
+    {
+        "id": 4,
+        "title": "Hackathon 2024",
+        "image": "/hero1.png",
+        "location": "Samarqand",
+        "year": "2024",
+        "time": "09:00",
+        "description": "O‘zbekiston bo‘ylab hackathon.",
+        "technologies": [
+            "Node.js",
+            "React"
+        ],
+        "role": "Participant",
+        "status": "past",
+        "link": "https://example.com/hackathon"
+    },
+    {
+        "id": 5,
+        "title": "Hackathon 2024",
+        "image": "/hero1.png",
+        "location": "Samarqand",
+        "year": "2024",
+        "time": "09:00",
+        "description": "O‘zbekiston bo‘ylab hackathon.",
+        "technologies": [
+            "Node.js",
+            "React"
+        ],
+        "role": "Participant",
+        "status": "upcoming",
+        "link": "https://example.com/hackathon"
+    },
+    {
+        "id": 6,
+        "title": "Hackathon 2024",
+        "image": "/hero1.png",
+        "location": "Samarqand",
+        "year": "2024",
+        "time": "09:00",
+        "description": "O‘zbekiston bo‘ylab hackathon.",
+        "technologies": [
+            "Node.js",
+            "React"
+        ],
+        "role": "Participant",
+        "status": "past",
+        "link": "https://example.com/hackathon"
+    },
+    {
+        "id": 7,
+        "title": "Hackathon 2024",
+        "image": "/hero1.png",
+        "location": "Samarqand",
+        "year": "2024",
+        "time": "09:00",
+        "description": "O‘zbekiston bo‘ylab hackathon.",
+        "technologies": [
+            "Node.js",
+            "React"
+        ],
+        "role": "Participant",
+        "status": "upcoming",
+        "link": "https://example.com/hackathon"
+    }
+]

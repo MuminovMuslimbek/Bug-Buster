@@ -7,7 +7,7 @@ import Image from "next/image";
 import Volunteer1 from '@/../public/volunteer1.jpg'
 import Volunteer2 from '@/../public/volunteer2.webp'
 
-export default function AboutPage() {
+export default function page() {
     return (
         <div className="bg-[#01172C] min-h-screen text-white flex flex-col">
             {/* Hero / Biz haqimizda section */}

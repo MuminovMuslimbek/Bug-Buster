@@ -1,14 +1,9 @@
 @import "tailwindcss";
+@import "atropos/css";
 
 body {
   background-color: #01172C !important;
   color: white;
-}
-
-.container {
-  max-width: 1400px;
-  width: 100%;
-  margin: 0 auto;
 }
 
 .swiper-pagination-bullet {
@@ -18,5 +13,15 @@ body {
 
 .swiper-pagination-bullet-active {
   background: #0070f3;
+  opacity: 1;
+}
+
+.custom-pagination .swiper-pagination-bullet {
+  background-color: #0c2f53;
+  opacity: 1;
+}
+
+.custom-pagination .swiper-pagination-bullet-active {
+  background-color: #fff;
   opacity: 1;
 }
