@@ -1,11 +1,10 @@
 "use client";
 
 import React from "react";
-import Header from "@/components/Header";
 import Team from "@/components/Team";
 import Image from "next/image";
-import Volunteer1 from '@/../public/volunteer1.jpg'
-import Volunteer2 from '@/../public/volunteer2.webp'
+import Volunteer1 from '@/../public/hero1.png'
+import Volunteer2 from '@/../public/about1.png'
 
 export default function page() {
     return (

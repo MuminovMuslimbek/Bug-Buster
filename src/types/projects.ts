@@ -8,6 +8,6 @@ export interface Project {
     description: string;
     technologies: string[];
     role: string;
-    status: "upcoming" | "past"; // faqat shu ikki qiymat
+    status: "upcoming" | "past";
     link: string;
 }

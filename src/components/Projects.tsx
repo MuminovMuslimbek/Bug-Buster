@@ -109,15 +109,19 @@ export default function Projects() {
                     </Swiper>
 
                     {/* Custom navigation */}
-                    <div className="flex items-center justify-center mt-8 space-x-4">
-                        <button className="custom-prev border border-[#0a2746] bg-[#011932] hover:bg-[#092849] cursor-pointer text-white p-3 rounded-full">
-                            ◀
+                    <div className="flex items-center justify-center mt-8 space-x-4" >
+                        <button className="custom-prev border border-[#0a2746] bg-[#011932] hover:bg-[#092849] cursor-pointer text-white p-3 rounded-full" >
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" >
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                            </svg>
                         </button>
 
-                        <div className="custom-pagination flex justify-center space-x-2"></div>
+                        <div className="custom-pagination flex justify-center space-x-2" > </div>
 
-                        <button className="custom-next border border-[#0a2746] bg-[#011932] hover:bg-[#092849] cursor-pointer text-white p-3 rounded-full">
-                            ▶
+                        <button className="custom-next border border-[#0a2746] bg-[#011932] hover:bg-[#092849] cursor-pointer text-white p-3 rounded-full" >
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 24 24" stroke="currentColor" >
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                            </svg>
                         </button>
                     </div>
                 </div>

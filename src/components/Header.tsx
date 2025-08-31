@@ -65,12 +65,10 @@ const Header: React.FC = () => {
           <ul className="flex space-x-6 font-semibold items-center">
             <li><Link href="/" className="hover:text-gray-300">Bosh Sahifa</Link></li>
             <li><Link href="/projects" className="hover:text-gray-300">Loyihalar</Link></li>
-            <li><Link href="/filmlar" className="hover:text-gray-300">Filmlar</Link></li>
-            <li><Link href="/seriallar" className="hover:text-gray-300">Seriallar</Link></li>
-            <li><Link href="/multfilmlar" className="hover:text-gray-300">Multfilmlar</Link></li>
+            <li><Link href="/certificates" className="hover:text-gray-300">Sertifikatlar</Link></li>
             <li><Link href="/team" className="hover:text-gray-300">Jamoa</Link></li>
-            <li><Link href="/sertificate" className="hover:text-gray-300">Sertifikatlar</Link></li>
             <li><Link href="/about" className="hover:text-gray-300">Haqida</Link></li>
+            <li><Link href="/contact" className="hover:text-gray-300">Bog'lanish</Link></li>
           </ul>
         </nav>
 
@@ -118,12 +116,10 @@ const Header: React.FC = () => {
           <ul className="flex flex-col space-y-4 font-medium tracking-wide">
             <li><Link href="/" className="hover:text-gray-300">Bosh Sahifa</Link></li>
             <li><Link href="/projects" className="hover:text-gray-300">Loyihalar</Link></li>
-            <li><Link href="/filmlar" className="hover:text-gray-300">Filmlar</Link></li>
-            <li><Link href="/seriallar" className="hover:text-gray-300">Seriallar</Link></li>
-            <li><Link href="/multfilmlar" className="hover:text-gray-300">Multfilmlar</Link></li>
+            <li><Link href="/certificate" className="hover:text-gray-300">Sertifikatlar</Link></li>
             <li><Link href="/team" className="hover:text-gray-300">Jamoa</Link></li>
-            <li><Link href="/sertificate" className="hover:text-gray-300">Sertifikatlar</Link></li>
             <li><Link href="/about" className="hover:text-gray-300">Haqida</Link></li>
+            <li><Link href="/contact" className="hover:text-gray-300">Bog'lanish</Link></li>
           </ul>
 
           {/* Social + Join mobile */}

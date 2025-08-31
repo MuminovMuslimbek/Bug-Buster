@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "event": "Bug Buster Hackathon",
+        "date": "2025-08-20",
+        "participants": [
+            {
+                "id": 1,
+                "name": "Muslimbek Muminov",
+                "image": "/Muslimbek.jpeg"
+            },
+            {
+                "id": 2,
+                "name": "Javohirbek Nurmatov",
+                "image": "/Javohirbek.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "event": "Frontend Bootcamp",
+        "date": "2025-07-10",
+        "participants": [
+            {
+                "id": 3,
+                "name": "Muhammadyahyo",
+                "image": "/Muhammadyahyo.jpeg"
+            },
+            {
+                "id": 4,
+                "name": "Saidolim",
+                "image": "/Saidolim.jpeg"
+            }
+        ]
+    }
+]

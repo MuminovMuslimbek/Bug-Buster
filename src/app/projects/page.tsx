@@ -22,7 +22,7 @@ export default function ProjectsPage() {
         <section className="py-12 bg-[#01172C] pt-30 min-h-screen">
             <div className="container mx-auto px-4">
                 <h1 className="text-2xl md:text-3xl font-bold text-center mb-12 text-white">
-                    📅 Loyihalar & Tadbirlar
+                    📅 Musobaqa & Tadbirlar
                 </h1>
 
                 {/* Rejalashtirilgan */}
@@ -41,7 +41,7 @@ export default function ProjectsPage() {
                                     rotateXMax={15}
                                     rotateYMax={15}
                                 >
-                                    <div className="h-full bg-[#011932] max-w-[400px] w-full rounded-xl overflow-hidden border border-[#0a2746] shadow-lg transition-transform duration-300 flex flex-row md:flex-col">
+                                    <div className="h-full bg-[#011932] rounded-xl overflow-hidden border border-[#0a2746] shadow-lg transition-transform duration-300 flex flex-row md:flex-col">
                                         <div
                                             className="relative w-32 h-auto md:w-full md:h-48 flex-shrink-0"
                                             data-atropos-offset="5"
@@ -89,7 +89,7 @@ export default function ProjectsPage() {
                     <h2 className="text-2xl font-semibold text-white mb-6">
                         ✅ O‘tkazilgan tadbirlar
                     </h2>
-                    <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
                         {past.length > 0 ? (
                             past.map((project) => (
                                 <Atropos
